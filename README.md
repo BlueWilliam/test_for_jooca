@@ -1,6 +1,6 @@
 # Test for Jooca - Flutter Demo
 
-This Flutter demo project demonstrates how to fetch weather data from the OpenWeatherMap API.
+This Flutter demo project demonstrates how to fetch weather data from the OpenWeatherData API.
 
 ## Features
 
