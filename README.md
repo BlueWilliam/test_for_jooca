@@ -1,4 +1,4 @@
-# Auto-Adjusting Text Height in Row - Flutter Demo
+# Test for Jooca - Flutter Demo
 
 This Flutter demo project demonstrates how to fetch weather data from the OpenWeatherMap API.
 
